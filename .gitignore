@@ -1,0 +1,19 @@
+# dados pessoais de cada um
+perfil.json
+**/foto.*
+!**/foto.example.*
+
+# chaves
+.env
+*.key
+
+# saídas de render
+*.mp4
+*.mov
+*.wav
+*.mp3
+voz/
+frames/
+projeto/
+node_modules/
+__pycache__/

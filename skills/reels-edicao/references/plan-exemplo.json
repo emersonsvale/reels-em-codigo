@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "duration": 9.14,
+    "source": "source.mp4",
+    "roteiro": null,
+    "geradoPor": "plan-cuts.mjs",
+    "parametros": {
+      "SILENCE_MIN": 0.35,
+      "PAD": 0.08,
+      "MIN_SEG": 0.7,
+      "JCUT_LEAD": 0.18,
+      "ZOOM_IN": 1.08
+    }
+  },
+  "titulo": {
+    "texto": "O editor de vídeo que ninguém te contou",
+    "inicio": 0,
+    "duracao": 2.4
+  },
+  "cta": {
+    "linhas": [
+      "Salva esse post.",
+      "Me segue pra mais.",
+      "@seu.perfil"
+    ],
+    "inicio": 6.2,
+    "duracao": 2.94
+  },
+  "graficos": [
+    {
+      "id": "g1",
+      "inicio": 3.2,
+      "duracao": 2.6,
+      "tipo": "lista",
+      "conteudo": {
+        "kicker": "o que dá pra fazer",
+        "itens": [
+          "Cortes automáticos",
+          "Legendas em português",
+          "Motion graphics"
+        ]
+      }
+    }
+  ],
+  "split": [
+    {
+      "inicio": 3.2,
+      "duracao": 2.6,
+      "graficoId": "g1"
+    }
+  ],
+  "soVoz": [],
+  "sfx": [
+    {
+      "som": "pin",
+      "em": 0.2,
+      "volume": 0.5
+    },
+    {
+      "som": "rise",
+      "em": 2.6,
+      "duracao": 0.8,
+      "volume": 0.45
+    },
+    {
+      "som": "boom",
+      "em": 6.2,
+      "volume": 0.6
+    }
+  ],
+  "segmentos": [
+    {
+      "id": "seg-00",
+      "index": 0,
+      "mediaStart": 0.42,
+      "duration": 2.81,
+      "timelineStart": 0,
+      "jcutLead": 0,
+      "zoom": 1,
+      "text": "Olha só o que eu descobri hoje."
+    },
+    {
+      "id": "seg-01",
+      "index": 1,
+      "mediaStart": 4.12,
+      "duration": 3.36,
+      "timelineStart": 2.81,
+      "jcutLead": 0.18,
+      "zoom": 1.08,
+      "text": "Isso aqui muda tudo pra quem edita vídeo."
+    },
+    {
+      "id": "seg-02",
+      "index": 2,
+      "mediaStart": 8.92,
+      "duration": 2.97,
+      "timelineStart": 6.17,
+      "jcutLead": 0.18,
+      "zoom": 1,
+      "text": "E o melhor é que é de graça."
+    }
+  ]
+}

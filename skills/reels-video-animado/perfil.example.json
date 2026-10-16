@@ -1,0 +1,24 @@
+{
+  "nome": "Seu Nome",
+  "tratamento": "você",
+  "foto": "foto.jpg",
+  "cor_destaque": "#FDD400",
+  "cta_final": "SEGUE AÍ PARA MAIS DICAS DE IA",
+  "redes": {
+    "instagram": "@seu.perfil",
+    "tiktok": "@seu.perfil",
+    "youtube": "@seucanal",
+    "facebook": "Seu Nome"
+  },
+  "handle_no_card": "instagram",
+  "pasta_saida": "",
+  "pasta_trabalho": "",
+  "pasta_sfx": "",
+  "voz": {
+    "provedor": "gemini",
+    "modelo": "gemini-3.8-flash-tts",
+    "voz": "Sulafat",
+    "tag": "[upbeat]",
+    "velocidade": 1.12
+  }
+}

@@ -1,5 +1,7 @@
 # Reels em código
 
+![Essa skill faz reels em código](docs/capa.png)
+
 Duas skills para o Claude que fazem Reels inteiros em código, sem editor de vídeo:
 
 | Skill | O que faz |
@@ -8,6 +10,12 @@ Duas skills para o Claude que fazem Reels inteiros em código, sem editor de ví
 | [`reels-edicao`](skills/reels-edicao/SKILL.md) | Você grava falando pra câmera. Ela corta os silêncios, põe título, legenda karaokê, painéis explicativos animados, zoom e SFX. |
 
 As duas saem em MP4 1080x1920, 30fps, até 50MB, prontas pra Instagram, TikTok, YouTube Shorts e Facebook. A composição é HTML renderizado quadro a quadro num navegador sem janela, com [HyperFrames](https://github.com/heygen-com/hyperframes) e FFmpeg.
+
+![Um vídeo feito pela skill, cena por cena](docs/exemplos.png)
+
+![Do roteiro ao MP4 em 5 passos](docs/fluxo.png)
+
+Vídeo de exemplo, feito do começo ao fim pela skill: [docs/exemplo.mp4](docs/exemplo.mp4)
 
 ## O que precisa
 

@@ -17,3 +17,6 @@ frames/
 projeto/
 node_modules/
 __pycache__/
+
+# exemplo publico do README
+!docs/exemplo.mp4
